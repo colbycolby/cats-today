@@ -3,4 +3,4 @@ Display today's cats from reddit in Slack
 
 ## Demo
 
-[]!(https://github.com/colbyy/cats-today/blob/master/todays-cats.gif)
+[]!(http://i.imgur.com/VpIKYjV.gif)
